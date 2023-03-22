@@ -1,0 +1,20 @@
+{
+    "name": "iamintheserver",
+    "version": "1.0.0",
+    "description": "Find flag in the bush of routes",
+    "main": "index.js",
+    "scripts": {
+        "devWatch": "nodemon index.js"
+    },
+    "author": "MarioJey",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "fs": "^0.0.1-security",
+        "nodemon": "^2.0.21"
+    }
+}
