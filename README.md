@@ -12,3 +12,6 @@ This needs no explanation, my only tip is that you should have number 10 on your
 **[File](./CesarCipher/text.txt)**
 
 ---
+## Ssssnake
+
+You have 35 line of random numbers (only random 🤔), use snake to find flag. It's just a game.
